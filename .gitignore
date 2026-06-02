@@ -1,0 +1,10 @@
+# Build directory
+build/
+CMakeCache.txt
+CMakeFiles/
+
+# macOS files
+.DS_Store
+
+# IDE files
+.vscode/
